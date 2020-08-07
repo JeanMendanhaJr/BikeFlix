@@ -7,13 +7,13 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-// Desafio master blaster na descriÃ§Ã£o
-// Colocar um jogo ou brincadeira nessa pÃ¡gina:
+// Desafio master blaster na descrição
+// Colocar um jogo ou brincadeira nessa página:
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
     <h1>Ops, quebrou tudo :O</h1>
     <p>
-      <a href="/">VocÃª pode jogar ou voltar pra home :)</a>
+      <a href="/">Você pode jogar ou voltar pra home :)</a>
     </p>
     <p>
       Ou <a href="https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej">aprender a fazer o jogo</a>
